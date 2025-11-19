@@ -12,7 +12,7 @@
 ## 🚀 Как запустить  
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ТВОЙ-ЛОГИН/hw-39.git```
+   git clone https://github.com/leriadem/hw-39-react-components.git```
 
 2. Перейдите в папку проекта:
 ```cd hw-39```
